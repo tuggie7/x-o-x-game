@@ -1,0 +1,16 @@
+*{
+  box-sizing:border-box;
+}
+
+body{
+  margin:0;
+  background-color : #efefef;
+  font-family:"Fredoka",sans-serif;
+}
+
+.buton{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding-top:25px;
+}

@@ -1,0 +1,13 @@
+.scoreboard{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    font-size:2rem;
+    font-style:bold;
+}
+.scoreboard .xScore{
+    color:red;
+}
+.scoreboard .oScore{
+    color:blue;
+}
